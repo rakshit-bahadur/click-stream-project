@@ -1,0 +1,6 @@
+{
+  "master": "local[*]",
+  "appName": "ClickstreamProcessing",
+  "spark_submit_options": "--executor-memory 4g --executor-cores 4",
+  "hbase_table_name": "clickstream_data"
+}

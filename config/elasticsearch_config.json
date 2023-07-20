@@ -1,0 +1,4 @@
+{
+  "host": "localhost:9200",
+  "index_name": "clickstream_index"
+}
